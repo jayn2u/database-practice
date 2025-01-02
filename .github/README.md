@@ -3,4 +3,4 @@
 ## 어떻게 하고 있냐?
 
 - DataGrip 사용감 익히기
-- 쿼리문 익숙해지기 위한 PlayGround`
+- 쿼리문 익숙해지기 위한 PlayGround
